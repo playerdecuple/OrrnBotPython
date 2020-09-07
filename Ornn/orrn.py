@@ -90,4 +90,4 @@ class orrnMain(discord.Client):
 
     
 client = orrnMain()
-client.run('NzQ3NjY1MzgzOTI1ODc0Nzc5.X0SLpg.9M9uwL9K63Xg_-zymtP3meRwFdI')
+client.run('THIS_IS_TOKEN_FIELD')
