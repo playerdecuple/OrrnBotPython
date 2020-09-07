@@ -5,4 +5,4 @@
 > - 2. Remove Weapon
 > - 3. Reinforce Weapon
 
-You can use this in all projects.
+You can use this in all projects(or Repositories).
