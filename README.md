@@ -6,3 +6,4 @@
 > - 3. Reinforce Weapon
 
 You can use this in all projects(or Repositories).
+(I made this for practice)
